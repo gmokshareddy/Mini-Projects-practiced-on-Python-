@@ -5,9 +5,12 @@ Projects Included:-
 1):Student Grade System
 This project calculates grades based on student marks.
 Example:
-90+ → Grade A
-75–89 → Grade B
-50–74 → Grade C
-Below 50 → Fail
+Above 90->A+
+Above 80->A
+Above 70->B+
+Above 60->B
+Above 50->c
+Below 40->"Fail"
+else: Withheld(Result is Pending).
 
  Helps in understanding conditions and real-world logic building.
